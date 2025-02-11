@@ -8,7 +8,7 @@ Dit project betreft de herbouw van de **MBO-Hub website** in een **WordPress-omg
 - **Keuzedeel:** Verdieping Software 2  
 - **Periode:** 10 februari - 11 maart 2025  
 - **Opdrachtgever:** MBO-Hub Amsterdam  
-- **Ontwikkelaar:** Dani van der Mijl  
+- **Ontwikkelaar:** Ian Schaafsma, Mert Korkmaz & Dani van der Mijl  
 - **Tech Stack:** WordPress, Elementor  
 
 ## 🎯 Doelstellingen  
