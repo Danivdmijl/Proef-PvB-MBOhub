@@ -14,7 +14,7 @@ Dit project betreft de herbouw van de **MBO-Hub website** in een **WordPress-omg
 ## 🎯 Doelstellingen  
 
 ✅ De bestaande MBO-Hub website omzetten naar WordPress met een gebruiksvriendelijk design.  
-✅ Elementor gebruiken om de klant een intuïtieve manier te bieden om content te beheren.  
+✅ Elementor gebruiken om de klant een gebruiksvriendelijke manier te bieden om content te beheren.  
 ✅ De site snel, responsief en goed gestructureerd opbouwen.  
-✅ Efficiënte communicatie en samenwerking binnen het ontwikkelteam.  
+✅ Efficiente communicatie en samenwerking binnen het ontwikkelteam.  
 ✅ Een volledig functionerende en goedgekeurde website opleveren.  
