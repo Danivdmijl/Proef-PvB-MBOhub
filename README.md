@@ -21,6 +21,6 @@ Dit project betreft de herbouw van de **MBO-Hub website** in een **WordPress-omg
 
 ## 📊 Projectstatus  
 
-Je kunt de actuele projectstatus bekijken in de **Excel-sheet op SharePoint**:  
+Je kunt de actuele projectstatus/taken verdeling bekijken in de **Excel-sheet op SharePoint**:  
 [📂 Bekijk de Excel-sheet](https://mediacollegeamsterdam-my.sharepoint.com/:x:/g/personal/32570_ma-web_nl/EXBezC0eQZJHqpT9bXSAXn8BhPbIJUBo4Vaz2CBlH163cg?e=ZPCoCP)  
 
