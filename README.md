@@ -18,3 +18,9 @@ Dit project betreft de herbouw van de **MBO-Hub website** in een **WordPress-omg
 ✅ De site snel, responsief en goed gestructureerd opbouwen.  
 ✅ Efficiente communicatie en samenwerking binnen het ontwikkelteam.  
 ✅ Een volledig functionerende en goedgekeurde website opleveren.  
+
+## 📊 Projectstatus  
+
+Je kunt de actuele projectstatus bekijken in de **Excel-sheet op SharePoint**:  
+[📂 Bekijk de Excel-sheet](https://mediacollegeamsterdam-my.sharepoint.com/:x:/g/personal/32570_ma-web_nl/EXBezC0eQZJHqpT9bXSAXn8BhPbIJUBo4Vaz2CBlH163cg?e=ZPCoCP)  
+
